@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bec2b42-599f-4a72-bcdb-80e130932822" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1lnMUS4CEU8YVlwji2iFqKcMEJB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="JUnit.StackOverflowSuite">
+    <configuration name="StackOverflow" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="stackoverflow.StackOverflow" />
+      <module name="bigdata-stackoverflow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stackoverflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackOverflowSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-stackoverflow" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="stackoverflow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="stackoverflow" />
+      <option name="MAIN_CLASS_NAME" value="stackoverflow.StackOverflowSuite" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unittests in test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="bigdata-stackoverflow" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/test&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.StackOverflowSuite" />
+        <item itemvalue="Python tests.Unittests in test" />
+        <item itemvalue="Application.StackOverflow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="bigdata-stackoverflow" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="stackoverflow [file:/Users/shanghao/Downloads/stackoverflow/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="bigdata-stackoverflow-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="9429548676000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3968284345" />
+        <entry key="$PROJECT_DIR$/project/MOOCSettings.scala" value="598648594" />
+        <entry key="$PROJECT_DIR$/project/StudentTasks.scala" value="2255003577" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+        <entry key="$PROJECT_DIR$/project/buildSettings.sbt" value="2649409897" />
+        <entry key="$PROJECT_DIR$/project/plugins.sbt" value="2662701361" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../wikipedia" value="PREVIEW" />
+        <entry key="$USER_HOME$/bitbucket/scala_example" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bec2b42-599f-4a72-bcdb-80e130932822" name="Default Changelist" comment="" />
+      <created>1608228416505</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608228416505</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2000" y="218" key="#Project_Structure" timestamp="1610133696216">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2000" y="218" key="#Project_Structure/46.23.1394.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610133696216" />
+    <state x="2074" y="153" key="#Unittests_in_test" timestamp="1610133680479">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2074" y="153" key="#Unittests_in_test/46.23.1394.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610133680479" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom" timestamp="1610470296418">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1608243773331" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/44.23.1396.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610470296418" />
+    <state width="1878" height="289" key="GridCell.Tab.0.bottom/46.23.1394.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610133721114" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center" timestamp="1610470296416">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1608243773329" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/44.23.1396.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610470296416" />
+    <state width="1878" height="289" key="GridCell.Tab.0.center/46.23.1394.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610133721113" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left" timestamp="1610470296415">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1608243773328" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/44.23.1396.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610470296415" />
+    <state width="1878" height="289" key="GridCell.Tab.0.left/46.23.1394.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610133721112" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right" timestamp="1610470296416">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1608243773330" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/44.23.1396.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610470296416" />
+    <state width="1878" height="289" key="GridCell.Tab.0.right/46.23.1394.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610133721114" />
+    <state x="2070" y="386" key="com.intellij.ide.util.TipDialog" timestamp="1610132375465">
+      <screen x="1440" y="23" width="1920" height="1057" />
+    </state>
+    <state x="2070" y="386" key="com.intellij.ide.util.TipDialog/46.23.1394.877/1440.23.1920.1057@1440.23.1920.1057" timestamp="1610132375465" />
+  </component>
+</project>
